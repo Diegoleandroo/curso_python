@@ -8,7 +8,7 @@ print(len(filmsList))
 # 2 - Recuperar um item da lista pelo nome
 print(filmsList.index("Interstellar")) 
 
-# 3 - Adiccionar um item ao final da lista
+# 3 - Adicionar um item ao final da lista
 filmsList.append("The lord of the Rings")
 print(filmsList)
 
